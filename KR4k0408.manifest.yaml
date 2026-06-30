@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0408/v1
+canonical_location: https://kanripo.org/bkk/KR4k0408/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楚國先賢傳一卷
+  identifiers:
+    krp: KR4k0408
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0408.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0408_001.yaml, hash: 'sha256:c371b84fc4df2f49554aa7e9066f9cd388704b5f9e65830a6c5cc83fd69ea9d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0408_001.markers.yaml, hash: 'sha256:aabf5e3b11f2cef6ea28f5c643a0fe3e1598812c61f43d6d528f6baed43910d7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0408_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 464
+  label: 楚國先賢傳
+  type: section
+  level: 1
+hash: sha256:4c754506fdb405871ea241133a6bb2b6ae3116e22c18cefd4eeae4a814a745c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
