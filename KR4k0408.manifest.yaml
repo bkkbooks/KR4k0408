@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0408_001.yaml, hash: 'sha256:c371b84fc4df2f49554aa7e9066f9cd388704b5f9e65830a6c5cc83fd69ea9d7'}
+  - {seq: 1, filename: KR4k0408_001.yaml, hash: 'sha256:a5abcd4b156a54de13727fe991f60bd8351d1711227d713236df6267388aca52'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0408_001.markers.yaml, hash: 'sha256:aabf5e3b11f2cef6ea28f5c643a0fe3e1598812c61f43d6d528f6baed43910d7'}
+  - {seq: 1, role: markers, filename: assets/KR4k0408_001.markers.yaml, hash: 'sha256:e68faf35f02b88d42ec4de3ab733c662edbdf74730c5bb37bf51d601ce040b36'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 楚國先賢傳
   type: section
   level: 1
-hash: sha256:4c754506fdb405871ea241133a6bb2b6ae3116e22c18cefd4eeae4a814a745c7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:89a1d3fcb97e61522c2b0e0bd6b147086c6c0dc63e9249094bc7172739159181
