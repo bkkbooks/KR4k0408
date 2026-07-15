@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0408/v1
 canonical_location: https://kanripo.org/bkk/KR4k0408/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楚國先賢傳一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0408_001.yaml, hash: 'sha256:a5abcd4b156a54de13727fe991f60bd8351d1711227d713236df6267388aca52'}
+  - {seq: 1, filename: KR4k0408_001.yaml, hash: 'sha256:c371b84fc4df2f49554aa7e9066f9cd388704b5f9e65830a6c5cc83fd69ea9d7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0408_001.markers.yaml, hash: 'sha256:e68faf35f02b88d42ec4de3ab733c662edbdf74730c5bb37bf51d601ce040b36'}
+  - {seq: 1, role: markers, filename: assets/KR4k0408_001.markers.yaml, hash: 'sha256:a5f4f0a404452e6a53f60a46c327905ba7c6d9a4debce0d0cc79bbdc81089cb7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 楚國先賢傳
   type: section
   level: 1
-hash: sha256:89a1d3fcb97e61522c2b0e0bd6b147086c6c0dc63e9249094bc7172739159181
+hash: sha256:3f755ef93b8f037b7926555a37a8e8f9d852ce01928e8620d2d4159abba85458
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
